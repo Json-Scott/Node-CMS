@@ -1,0 +1,5 @@
+cnpm install --save-dev
+@babel/cli @babel/core @babel/node @babel/plugin-proposal-class-properties @babel/plugin-proposal-decorators @babel/preset-env nodemon(windows cross-env)
+
+cnpm install --save
+@koa/multer bcrypt glob ioredis jsonschema koa koa-body koa-logger koa-router koa-session koa-static koa-views koa2-cors multer pug puppeteer ramda
